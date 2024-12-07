@@ -19,19 +19,6 @@
 - **HTML5**: Para estruturar o conteúdo da página.
 - **CSS3**: Para estilizar e criar um layout responsivo e elegante.
 - **Google Fonts**: Integração com a fonte **Poppins** para tipografia estilizada.
-
-## 📂 Estrutura de Pastas
-
-```plaintext
-Travelgram/
-├── assets/
-│   ├── icons/        # Ícones utilizados na página
-│   ├── images/       # Imagens de perfil e da galeria
-│   └── Logo.svg      # Logotipo do Travelgram
-├── styles/
-│   └── index.css     # Arquivo de estilos
-└── index.html        # Página principal do projeto
-```
 ---
 ## 🚀 Como Executar
 
