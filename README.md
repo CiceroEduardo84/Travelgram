@@ -1,27 +1,26 @@
 # Travelgram
 
-**Travelgram** é um projeto de portfólio de viagens que permite compartilhar momentos e experiências capturadas ao explorar o mundo. Com um design limpo e responsivo, a plataforma apresenta um perfil personalizado para cada viajante, destacando fotos, países visitados e informações pessoais.
+**Travelgram** is a travel portfolio project that allows you to share moments and experiences captured while exploring the world. With a clean and responsive design, the platform presents a personalized profile for each traveler, highlighting photos, countries visited and personal information.
 
-## 🖥️ Funcionalidades
+## 🖥️ Features
 
-- **Página de Perfil:**
-  - Exibição de informações do usuário, incluindo nome, localização, países visitados e fotos publicadas.
-  - Descrição breve sobre a paixão por viagens e a origem do viajante.
+- **Profile Page:**
+- Displays user information, including name, location, countries visited and published photos.
+- Brief description about the traveler's passion for travel and origin.
 
-- **Galeria de Fotos:**
-  - Mostra as fotos das viagens organizadas em um layout visualmente agradável.
+- **Photo Gallery:**
+- Shows photos from trips organized in a visually pleasing layout.
 
-- **Navegação Simples:**
-  - Links para explorar novas viagens e acesso às viagens registradas pelo usuário.
+- **Simple Navigation:**
+- Links to explore new trips and access to trips recorded by the user.
 
-## 🛠️ Tecnologias Utilizadas
+## 🛠️ Technologies Used
 
-- **HTML5**: Para estruturar o conteúdo da página.
-- **CSS3**: Para estilizar e criar um layout responsivo e elegante.
-- **Google Fonts**: Integração com a fonte **Poppins** para tipografia estilizada.
+- **HTML5**: To structure the page content.
+- **CSS3**: To style and create a responsive and elegant layout. - **Google Fonts**: Integration with the **Poppins** font for stylized typography.
 ---
-## 🚀 Como Executar
+## 🚀 How to Run
 
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/CiceroEduardo84/Travelgram.git
+1. Clone this repository:
+```bash
+git clone https://github.com/CiceroEduardo84/Travelgram.git
