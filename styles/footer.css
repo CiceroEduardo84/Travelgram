@@ -8,3 +8,20 @@ footer {
 footer span:nth-child(1) {
   margin-right: auto;
 }
+
+@media (max-width: 768px) {
+  footer {
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 16px;
+    padding: 16px;
+
+    & span {
+      text-align: center;
+    }
+
+    & span:nth-child(1) {
+      width: 100%;
+    }
+  }
+}
